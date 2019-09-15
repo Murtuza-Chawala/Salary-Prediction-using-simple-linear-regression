@@ -10,6 +10,6 @@ Predict the salary of the employee after 'n' number of years,using ML's most bas
 
 ## Predicting a salary based on a given year
 
-![Prediction](Screenshot from 2019-09-15 09-39-56.png)
+![Prediction](Screenshot%20from%202019-09-15%2009-39-56.png)
 
 
