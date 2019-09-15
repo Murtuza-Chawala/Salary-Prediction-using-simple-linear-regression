@@ -6,7 +6,7 @@ Predict the salary of the employee after 'n' number of years,using ML's most bas
 
 ## The accuracy of the  ML model
 
-![ML model](Simple Linear Reg.png)
+![ML model](Simple%20Linear%20Reg.png)
 
 ## Predicting a salary based on a given year
 
